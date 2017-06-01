@@ -1,0 +1,9 @@
+* Cats n' Cookies
+** Vision
+
+   To create  decentralized p2p messaging and sharing app built on top of [[https://github.com/ssbc/patchwork][Patchwork]] and [[https://github.com/ipfs/js-ipfs][IPFS]].
+
+** Tasks
+*** TODO Try to run js-ipfs in the browser using webpack
+*** DONE Find what breaks when running patchwork in the browser, using webpack.
+    CLOSED: [2017-06-01 Thu 23:11]
